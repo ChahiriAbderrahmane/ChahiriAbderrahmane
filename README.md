@@ -33,7 +33,7 @@
 ### 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/" target="_blank">
+  <a href="https://www.linkedin.com/in/chahiri-abderrahmane/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:chahiri.abderrahmane.eng@gmail.com">
