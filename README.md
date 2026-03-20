@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Chahiri Abderrahmane! 👋</h1>
+<!-- <h1 align="center">Hi there, I'm Chahiri Abderrahmane! 👋</h1>
 <h3 align="center">🚀 Aspiring Data Engineer & ML Practitioner from Morocco</h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChahiriAbderrahmane&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
----
+--- -->
 
 ### 🤝 Connect with me
 
