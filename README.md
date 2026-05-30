@@ -1,3 +1,5 @@
+<samp> Portfolio 🍁: <a href="https://chahiriabderrahmane.github.io/" target="_blank">here</a></samp>
+<img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 <!-- <h1 align="center">Hi there, I'm Chahiri Abderrahmane! 👋</h1>
 <h3 align="center">🚀 Aspiring Data Engineer & ML Practitioner from Morocco</h3>
 
